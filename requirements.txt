@@ -1,0 +1,8 @@
+flask
+pymongo
+flask-cors
+opencv-python-headless
+pandas
+imutils
+scikit-learn
+openpyxl
